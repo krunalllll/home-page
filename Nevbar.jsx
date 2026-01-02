@@ -7,28 +7,28 @@ const slides = [
     location: "Switzerland Alps",
     title: "SAINT ANTÖNIEN",
     desc: "Explore pristine alpine trails and breathtaking mountain vistas in the heart of Switzerland.",
-    cardVideo: "/videos/2.mp4",
+    cardVideo: "/2.mp4",
   },
   {
     bg: "https://wallpapercave.com/wp/wp11887011.jpg",
     location: "Japan Alps",
     title: "NAGANO PREFECTURE",
     desc: "Discover snowy peaks, rich culture and peaceful mountain towns.",
-    cardVideo: "/videos/1.mp4",
+    cardVideo: "/1.mp4",
   },
   {
     bg: "https://wallpapercave.com/wp/wp14307363.jpg",
     location: "Sahara Desert - Morocco",
     title: "MARRAKECH MERZOUGA",
     desc: "Experience golden dunes and vibrant desert culture.",
-    cardVideo: "/videos/3.mp4",
+    cardVideo: "/3.mp4",
   },
   {
     bg: "https://motionbgs.com/media/4523/blind-dragon.jpg",
     location: "Sierra Nevada - USA",
     title: "YOSEMITE PARK",
     desc: "Witness dramatic cliffs and breathtaking nature.",
-    cardVideo: "/videos/4.mp4",
+    cardVideo: "/4.mp4",
   },
 ];
 
@@ -348,3 +348,4 @@ const NavbarHero = () => {
 };
 
 export default NavbarHero;
+
